@@ -10,7 +10,6 @@
 
 - **AI agents** — LLM agents that automate real workflows in a browser, with human approval before irreversible actions
 - **Computer vision & generative models** — VAEs and CycleGANs for image generation and unpaired image-to-image translation in PyTorch
-- **Game AI & automation** — computer-vision bots and search-based solvers (beam search, physics rollouts) that play games end-to-end
 - **Self-hosted model serving** — running open-source image/LLM models on local GPUs via ComfyUI, with a FastAPI backend and React front end
 - **Vector databases & retrieval** — benchmarking vector DBs with a control-plane / data-plane architecture for RAG workloads
 - **Full-stack web apps** — React + Java/Spring projects deployed on Vercel
@@ -37,8 +36,6 @@
 |---|---|---|
 | [**MyCareersFuture Job Agent**](https://github.com/tansongjun/mycareersfuture-job-agent) | AI agent that searches MyCareersFuture every morning for AI/ML roles, shortlists them, and applies only to the ones I approve — with a human approval gate and confirmation-page verification | Claude skills · Claude in Chrome · scheduled tasks |
 | [**Generative Vision Projects**](https://github.com/tansongjun/generative-vision-projects) | A ResNet-style VAE for face generation and a CycleGAN that translates photos ↔ cartoons and horses ↔ zebras without paired data | PyTorch · VAE · CycleGAN · PatchGAN |
-| [**WeChat Match-3 CV Bot**](https://github.com/tansongjun/wechat-match3-cv-bot) | Bot that plays a WeChat match-3 game by itself: OpenCV board parsing, template-matched tile recognition and a beam-search planner. Cleared 13 levels unassisted | Python · OpenCV · NumPy |
-| [**Save the King**](https://github.com/tansongjun/save-the-king-showcase) | Physics-based match-3 web game with a built-in AI solver (beam search + Box2D rollouts) and a statistical difficulty test lab | JavaScript · Canvas · Planck.js · PWA |
 
 ### 📈 GitHub activity
 
